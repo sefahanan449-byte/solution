@@ -6,17 +6,17 @@ A collection of JavaScript practice exercises focused on learning and applying f
 
 Projects
 
--Student Grades: Calculate grades, filter passed students, and find class averages.
+1-Student Grades: Calculate grades, filter passed students, and find class averages.
 
---Movie Watchlist: Format movies, filter short movies, and calculate total watch time.
+2--Movie Watchlist: Format movies, filter short movies, and calculate total watch time.
 
--Restaurant Menu: Display dishes, count spicy dishes, and calculate total prices.
+3-Restaurant Menu: Display dishes, count spicy dishes, and calculate total prices.
 
--Recipe Lists: Format recipes, count ingredients, and find recipes with eggs.
+4-Recipe Lists: Format recipes, count ingredients, and find recipes with eggs.
 
--Country Statistics: Display countries, compare populations, and calculate African population totals.
+5-Country Statistics: Display countries, compare populations, and calculate African population totals.
 
--Expense Tracker: Categorize expenses, calculate spending, and find the biggest expense.
+6-Expense Tracker: Categorize expenses, calculate spending, and find the biggest expense.
 
 
 Concepts Practiced
