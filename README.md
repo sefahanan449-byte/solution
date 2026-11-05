@@ -34,4 +34,6 @@ How to Run
 
 1 Clone this repository.
 2 Open the project folder in VS Code.
-3 Run the JavaScript file using Node.js:
+3 Run the JavaScript file using Node.js
+ author 
+ hanan sefa
